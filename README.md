@@ -24,9 +24,9 @@ A web application for managing cinema operations and session reservations.
 <p align="center">
   <img src="cinma/public/Screenshot 2025-04-14 154101.png" alt="Home Page"/>
   <br/><br/>
-  <img src="./public/Screenshot 2025-04-14 154201.png" alt="Screenshot 2" width="600"/>
+  <img src="cinma/public/Screenshot 2025-04-14 154219.png" alt="login Page" width="600"/>
   <br/><br/>
-  <img src="./public/Screenshot 2025-04-14 154219.png" alt="Screenshot 3" width="600"/>
+  <img src="cinma/public/Screenshot 2025-04-14 154338.png" alt="SignIn Page" width="600"/>
   <br/><br/>
-  <img src="./public/Screenshot 2025-04-14 154338.png" alt="Screenshot 4" width="600"/>
+  <img src="cinma/public/Screenshot 2025-04-14 154201.png" alt="Liste of Films" width="600"/>
 </p>
