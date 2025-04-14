@@ -22,7 +22,7 @@ A web application for managing cinema operations and session reservations.
 ## ✨ Photos
 
 <p align="center">
-  <img src="./public/Screenshot 2025-04-14 154101.png" alt="Screenshot 1" width="600"/>
+  <img src="./public/photo1.png" alt="Home Page" width="600"/>
   <br/><br/>
   <img src="./public/Screenshot 2025-04-14 154201.png" alt="Screenshot 2" width="600"/>
   <br/><br/>
