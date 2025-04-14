@@ -18,3 +18,6 @@ A web application for managing cinema operations and session reservations.
 - Add / update / delete movie sessions
 - Manage customer data and reservations
 - Monitor cinema operations efficiently
+## ✨ Photos
+![Screenshot](./cinma/public
+/Screenshot 2025-04-14 154101.png)
