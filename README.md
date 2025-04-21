@@ -1,5 +1,7 @@
 # 🎥 Cinema Management and Reservation System
 
+> Created by **Riadh Ammari** and **Yassine Ben Salah**
+
 A web application for managing cinema operations and session reservations.
 
 ## 🌐 Tech Stack
@@ -24,9 +26,9 @@ A web application for managing cinema operations and session reservations.
 <p align="center">
   <img src="cinma/public/Screenshot 2025-04-14 154101.png" alt="Home Page"/>
   <br/><br/>
-  <img src="cinma/public/Screenshot 2025-04-14 154219.png" alt="login Page"/>
+  <img src="cinma/public/Screenshot 2025-04-14 154219.png" alt="Login Page"/>
   <br/><br/>
-  <img src="cinma/public/Screenshot 2025-04-14 154338.png" alt="SignIn Page"/>
+  <img src="cinma/public/Screenshot 2025-04-14 154338.png" alt="Sign In Page"/>
   <br/><br/>
-  <img src="cinma/public/Screenshot 2025-04-14 154201.png" alt="Liste of Films"/>
+  <img src="cinma/public/Screenshot 2025-04-14 154201.png" alt="List of Films"/>
 </p>
